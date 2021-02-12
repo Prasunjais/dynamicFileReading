@@ -1,0 +1,3 @@
+/**
+ * QUERIES NOT REQUIRED
+ */

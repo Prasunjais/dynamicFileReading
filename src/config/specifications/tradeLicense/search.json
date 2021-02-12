@@ -1,0 +1,9 @@
+{
+  "searchTradeName": {
+    "type": "Textfield",
+    "props": {
+      "label": "trade name",
+      "required": true
+    }
+  }
+}
